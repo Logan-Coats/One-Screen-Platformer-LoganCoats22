@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lighting the Match (26x18).png-af1b9b77fb75b5248dc078a66d6e5b38.stex"
+path="res://.import/Lighting the Match (26x18).png-40419f84dabe73ad09d13074640001a4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/07-Pig With a Match/Lighting the Match (26x18).png"
-dest_files=[ "res://.import/Lighting the Match (26x18).png-af1b9b77fb75b5248dc078a66d6e5b38.stex" ]
+source_file="res://Sprites/07-Pig With a Match/Lighting the Match (26x18).png"
+dest_files=[ "res://.import/Lighting the Match (26x18).png-40419f84dabe73ad09d13074640001a4.stex" ]
 
 [params]
 

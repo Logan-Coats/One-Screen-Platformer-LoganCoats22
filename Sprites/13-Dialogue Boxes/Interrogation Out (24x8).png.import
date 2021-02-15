@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Interrogation Out (24x8).png-c57476242f41fb5d85923eb23b27cf82.stex"
+path="res://.import/Interrogation Out (24x8).png-d5ceb7decb2fb668f84d19b635108a4a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/13-Dialogue Boxes/Interrogation Out (24x8).png"
-dest_files=[ "res://.import/Interrogation Out (24x8).png-c57476242f41fb5d85923eb23b27cf82.stex" ]
+source_file="res://Sprites/13-Dialogue Boxes/Interrogation Out (24x8).png"
+dest_files=[ "res://.import/Interrogation Out (24x8).png-d5ceb7decb2fb668f84d19b635108a4a.stex" ]
 
 [params]
 

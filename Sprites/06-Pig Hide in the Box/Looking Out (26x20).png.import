@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Looking Out (26x20).png-4974ce567ba3c905f892972bedd5c912.stex"
+path="res://.import/Looking Out (26x20).png-42bab7949348c4342ef588b7696fa408.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/06-Pig Hide in the Box/Looking Out (26x20).png"
-dest_files=[ "res://.import/Looking Out (26x20).png-4974ce567ba3c905f892972bedd5c912.stex" ]
+source_file="res://Sprites/06-Pig Hide in the Box/Looking Out (26x20).png"
+dest_files=[ "res://.import/Looking Out (26x20).png-42bab7949348c4342ef588b7696fa408.stex" ]
 
 [params]
 

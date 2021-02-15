@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Dead In (24x8).png-4486c07c46660cc2717a66034e59c1d2.stex"
+path="res://.import/Dead In (24x8).png-3c92dd709a7940b8f5859addd0984c96.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/13-Dialogue Boxes/Dead In (24x8).png"
-dest_files=[ "res://.import/Dead In (24x8).png-4486c07c46660cc2717a66034e59c1d2.stex" ]
+source_file="res://Sprites/13-Dialogue Boxes/Dead In (24x8).png"
+dest_files=[ "res://.import/Dead In (24x8).png-3c92dd709a7940b8f5859addd0984c96.stex" ]
 
 [params]
 

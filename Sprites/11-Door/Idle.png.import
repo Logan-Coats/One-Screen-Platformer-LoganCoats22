@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle.png-4c2a84e610e02ed8b087fed6a8bc1348.stex"
+path="res://.import/Idle.png-972db7dea48214630e36aa930338a0ec.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/11-Door/Idle.png"
-dest_files=[ "res://.import/Idle.png-4c2a84e610e02ed8b087fed6a8bc1348.stex" ]
+source_file="res://Sprites/11-Door/Idle.png"
+dest_files=[ "res://.import/Idle.png-972db7dea48214630e36aa930338a0ec.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hello In (24x8).png-bab0fe85c106d8b24fd5c731b6fadfee.stex"
+path="res://.import/Hello In (24x8).png-be8b2c51a277a860e299554b5690d6af.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/13-Dialogue Boxes/Hello In (24x8).png"
-dest_files=[ "res://.import/Hello In (24x8).png-bab0fe85c106d8b24fd5c731b6fadfee.stex" ]
+source_file="res://Sprites/13-Dialogue Boxes/Hello In (24x8).png"
+dest_files=[ "res://.import/Hello In (24x8).png-be8b2c51a277a860e299554b5690d6af.stex" ]
 
 [params]
 

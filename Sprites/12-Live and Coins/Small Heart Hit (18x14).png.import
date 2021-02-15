@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Small Heart Hit (18x14).png-bc5ffe85bec1eca9b2b452ad488e3bfc.stex"
+path="res://.import/Small Heart Hit (18x14).png-989df2ade5b807dd0360e8702b74e552.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/12-Live and Coins/Small Heart Hit (18x14).png"
-dest_files=[ "res://.import/Small Heart Hit (18x14).png-bc5ffe85bec1eca9b2b452ad488e3bfc.stex" ]
+source_file="res://Sprites/12-Live and Coins/Small Heart Hit (18x14).png"
+dest_files=[ "res://.import/Small Heart Hit (18x14).png-989df2ade5b807dd0360e8702b74e552.stex" ]
 
 [params]
 

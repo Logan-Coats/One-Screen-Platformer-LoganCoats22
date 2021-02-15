@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/!!! In (24x8).png-0bc6936f2bc2c5d3cce04743e1fd9610.stex"
+path="res://.import/!!! In (24x8).png-04a79430c0551c92b8e09c256db47d78.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/13-Dialogue Boxes/!!! In (24x8).png"
-dest_files=[ "res://.import/!!! In (24x8).png-0bc6936f2bc2c5d3cce04743e1fd9610.stex" ]
+source_file="res://Sprites/13-Dialogue Boxes/!!! In (24x8).png"
+dest_files=[ "res://.import/!!! In (24x8).png-04a79430c0551c92b8e09c256db47d78.stex" ]
 
 [params]
 

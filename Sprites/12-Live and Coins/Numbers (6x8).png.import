@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Numbers (6x8).png-7033628f074070286e69d05ba38132e9.stex"
+path="res://.import/Numbers (6x8).png-66a6a9e0d72da1497a37f71e78dd7f61.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/12-Live and Coins/Numbers (6x8).png"
-dest_files=[ "res://.import/Numbers (6x8).png-7033628f074070286e69d05ba38132e9.stex" ]
+source_file="res://Sprites/12-Live and Coins/Numbers (6x8).png"
+dest_files=[ "res://.import/Numbers (6x8).png-66a6a9e0d72da1497a37f71e78dd7f61.stex" ]
 
 [params]
 

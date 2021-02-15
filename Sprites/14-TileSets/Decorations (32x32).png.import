@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Decorations (32x32).png-d3c415aa985f0201fb7a0e80db89670a.stex"
+path="res://.import/Decorations (32x32).png-7d4cc62f76044f139c45984cd6dd6676.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/14-TileSets/Decorations (32x32).png"
-dest_files=[ "res://.import/Decorations (32x32).png-d3c415aa985f0201fb7a0e80db89670a.stex" ]
+source_file="res://Sprites/14-TileSets/Decorations (32x32).png"
+dest_files=[ "res://.import/Decorations (32x32).png-7d4cc62f76044f139c45984cd6dd6676.stex" ]
 
 [params]
 

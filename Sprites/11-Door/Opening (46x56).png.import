@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Opening (46x56).png-af13f2dac1266a656d312100c326b613.stex"
+path="res://.import/Opening (46x56).png-37b7afd1fcef8f66bd1a9453d80ecc86.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/11-Door/Opening (46x56).png"
-dest_files=[ "res://.import/Opening (46x56).png-af13f2dac1266a656d312100c326b613.stex" ]
+source_file="res://Sprites/11-Door/Opening (46x56).png"
+dest_files=[ "res://.import/Opening (46x56).png-37b7afd1fcef8f66bd1a9453d80ecc86.stex" ]
 
 [params]
 

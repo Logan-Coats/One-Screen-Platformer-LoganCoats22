@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (38x28).png-ddba2b82a86b73df1d67fa6d2e3e88eb.stex"
+path="res://.import/Idle (38x28).png-38552ed6c4f955813b759828e24aec9b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/02-King Pig/Idle (38x28).png"
-dest_files=[ "res://.import/Idle (38x28).png-ddba2b82a86b73df1d67fa6d2e3e88eb.stex" ]
+source_file="res://Sprites/02-King Pig/Idle (38x28).png"
+dest_files=[ "res://.import/Idle (38x28).png-38552ed6c4f955813b759828e24aec9b.stex" ]
 
 [params]
 

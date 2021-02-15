@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Attack (78x58).png-31352082baf0db8f028db1eb1f770708.stex"
+path="res://.import/Attack (78x58).png-6f37a47c2d792d9c5227986202f9e4db.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/01-King Human/Attack (78x58).png"
-dest_files=[ "res://.import/Attack (78x58).png-31352082baf0db8f028db1eb1f770708.stex" ]
+source_file="res://Sprites/01-King Human/Attack (78x58).png"
+dest_files=[ "res://.import/Attack (78x58).png-6f37a47c2d792d9c5227986202f9e4db.stex" ]
 
 [params]
 

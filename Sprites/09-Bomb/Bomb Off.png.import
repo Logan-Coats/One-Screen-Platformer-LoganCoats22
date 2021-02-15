@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Bomb Off.png-7eaca62d743885a2ba3a010ece718c24.stex"
+path="res://.import/Bomb Off.png-52a3948f76a4a2bfdee162a0820a3e18.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/09-Bomb/Bomb Off.png"
-dest_files=[ "res://.import/Bomb Off.png-7eaca62d743885a2ba3a010ece718c24.stex" ]
+source_file="res://Sprites/09-Bomb/Bomb Off.png"
+dest_files=[ "res://.import/Bomb Off.png-52a3948f76a4a2bfdee162a0820a3e18.stex" ]
 
 [params]
 

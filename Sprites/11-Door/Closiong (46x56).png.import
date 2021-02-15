@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Closiong (46x56).png-77dc199d8ae6fbac7036edce94d59f87.stex"
+path="res://.import/Closiong (46x56).png-cc6d0d3ce50404dff392174f798ab680.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/11-Door/Closiong (46x56).png"
-dest_files=[ "res://.import/Closiong (46x56).png-77dc199d8ae6fbac7036edce94d59f87.stex" ]
+source_file="res://Sprites/11-Door/Closiong (46x56).png"
+dest_files=[ "res://.import/Closiong (46x56).png-cc6d0d3ce50404dff392174f798ab680.stex" ]
 
 [params]
 

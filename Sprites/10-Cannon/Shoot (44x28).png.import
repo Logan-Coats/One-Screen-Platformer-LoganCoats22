@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Shoot (44x28).png-12bc3058206547edfed11812d66b14b3.stex"
+path="res://.import/Shoot (44x28).png-490918e862bd0038031765f3dc550e82.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/10-Cannon/Shoot (44x28).png"
-dest_files=[ "res://.import/Shoot (44x28).png-12bc3058206547edfed11812d66b14b3.stex" ]
+source_file="res://Sprites/10-Cannon/Shoot (44x28).png"
+dest_files=[ "res://.import/Shoot (44x28).png-490918e862bd0038031765f3dc550e82.stex" ]
 
 [params]
 

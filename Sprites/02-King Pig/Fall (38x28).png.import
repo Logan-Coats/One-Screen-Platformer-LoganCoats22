@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fall (38x28).png-3b1a0934de366a73c096d3f5d4819467.stex"
+path="res://.import/Fall (38x28).png-9ddd1a2f4131dad531e6507c05b0c310.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/02-King Pig/Fall (38x28).png"
-dest_files=[ "res://.import/Fall (38x28).png-3b1a0934de366a73c096d3f5d4819467.stex" ]
+source_file="res://Sprites/02-King Pig/Fall (38x28).png"
+dest_files=[ "res://.import/Fall (38x28).png-9ddd1a2f4131dad531e6507c05b0c310.stex" ]
 
 [params]
 

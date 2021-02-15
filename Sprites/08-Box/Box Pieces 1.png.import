@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Box Pieces 1.png-c5bcab71d75a181da3ec8ca1ea7cee1a.stex"
+path="res://.import/Box Pieces 1.png-e9c1750851e00ed04a59802afa111993.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/08-Box/Box Pieces 1.png"
-dest_files=[ "res://.import/Box Pieces 1.png-c5bcab71d75a181da3ec8ca1ea7cee1a.stex" ]
+source_file="res://Sprites/08-Box/Box Pieces 1.png"
+dest_files=[ "res://.import/Box Pieces 1.png-e9c1750851e00ed04a59802afa111993.stex" ]
 
 [params]
 

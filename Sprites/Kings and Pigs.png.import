@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Kings and Pigs.png-9a504e3cf7a5d6a950a8d084884b674d.stex"
+path="res://.import/Kings and Pigs.png-51b2c1dffa0cb475b3d8f601a8c946ca.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/Kings and Pigs.png"
-dest_files=[ "res://.import/Kings and Pigs.png-9a504e3cf7a5d6a950a8d084884b674d.stex" ]
+source_file="res://Sprites/Kings and Pigs.png"
+dest_files=[ "res://.import/Kings and Pigs.png-51b2c1dffa0cb475b3d8f601a8c946ca.stex" ]
 
 [params]
 

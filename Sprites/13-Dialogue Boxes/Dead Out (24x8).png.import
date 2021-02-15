@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Dead Out (24x8).png-ec852632e41a140f54a5430ea744134a.stex"
+path="res://.import/Dead Out (24x8).png-8283eec10dd649702b4588ba534b643a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/13-Dialogue Boxes/Dead Out (24x8).png"
-dest_files=[ "res://.import/Dead Out (24x8).png-ec852632e41a140f54a5430ea744134a.stex" ]
+source_file="res://Sprites/13-Dialogue Boxes/Dead Out (24x8).png"
+dest_files=[ "res://.import/Dead Out (24x8).png-8283eec10dd649702b4588ba534b643a.stex" ]
 
 [params]
 

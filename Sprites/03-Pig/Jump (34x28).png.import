@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Jump (34x28).png-c8307b51d2edabc68fdd72802db3f023.stex"
+path="res://.import/Jump (34x28).png-eacd2a63e6c867ef70ce8fd4927d2903.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/03-Pig/Jump (34x28).png"
-dest_files=[ "res://.import/Jump (34x28).png-c8307b51d2edabc68fdd72802db3f023.stex" ]
+source_file="res://Sprites/03-Pig/Jump (34x28).png"
+dest_files=[ "res://.import/Jump (34x28).png-eacd2a63e6c867ef70ce8fd4927d2903.stex" ]
 
 [params]
 

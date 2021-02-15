@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (26x26).png-535e994254110d23c622e552c246d0d8.stex"
+path="res://.import/Idle (26x26).png-8053d030366c748c3fd2c7ab6cc4812d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/05-Pig Thowing a Bomb/Idle (26x26).png"
-dest_files=[ "res://.import/Idle (26x26).png-535e994254110d23c622e552c246d0d8.stex" ]
+source_file="res://Sprites/05-Pig Thowing a Bomb/Idle (26x26).png"
+dest_files=[ "res://.import/Idle (26x26).png-8053d030366c748c3fd2c7ab6cc4812d.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Loser Out (24x8).png-e2f4cef75a40ed14dcb594d46890bb40.stex"
+path="res://.import/Loser Out (24x8).png-1d19452fcac4b6cbfa84f3472c191916.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/13-Dialogue Boxes/Loser Out (24x8).png"
-dest_files=[ "res://.import/Loser Out (24x8).png-e2f4cef75a40ed14dcb594d46890bb40.stex" ]
+source_file="res://Sprites/13-Dialogue Boxes/Loser Out (24x8).png"
+dest_files=[ "res://.import/Loser Out (24x8).png-1d19452fcac4b6cbfa84f3472c191916.stex" ]
 
 [params]
 

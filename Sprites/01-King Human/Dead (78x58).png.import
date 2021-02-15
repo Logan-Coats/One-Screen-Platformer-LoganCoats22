@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Dead (78x58).png-9aabd6504b4a5619d7dd104baa5fa7d0.stex"
+path="res://.import/Dead (78x58).png-b4a1473cc8f3ad3b18a69b732b63db5c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/01-King Human/Dead (78x58).png"
-dest_files=[ "res://.import/Dead (78x58).png-9aabd6504b4a5619d7dd104baa5fa7d0.stex" ]
+source_file="res://Sprites/01-King Human/Dead (78x58).png"
+dest_files=[ "res://.import/Dead (78x58).png-b4a1473cc8f3ad3b18a69b732b63db5c.stex" ]
 
 [params]
 

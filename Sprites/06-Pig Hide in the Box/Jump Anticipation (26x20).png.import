@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Jump Anticipation (26x20).png-d30badba77dc6ce7bb009a5b3f3db30a.stex"
+path="res://.import/Jump Anticipation (26x20).png-664fa6a8bbafd8d07b87ef2beb262276.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/06-Pig Hide in the Box/Jump Anticipation (26x20).png"
-dest_files=[ "res://.import/Jump Anticipation (26x20).png-d30badba77dc6ce7bb009a5b3f3db30a.stex" ]
+source_file="res://Sprites/06-Pig Hide in the Box/Jump Anticipation (26x20).png"
+dest_files=[ "res://.import/Jump Anticipation (26x20).png-664fa6a8bbafd8d07b87ef2beb262276.stex" ]
 
 [params]
 

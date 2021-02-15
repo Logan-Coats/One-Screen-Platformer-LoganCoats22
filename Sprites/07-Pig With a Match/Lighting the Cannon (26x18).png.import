@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lighting the Cannon (26x18).png-84181149143ea6758113d68762439636.stex"
+path="res://.import/Lighting the Cannon (26x18).png-1f20aefa56e285a0425f670591a2b177.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/07-Pig With a Match/Lighting the Cannon (26x18).png"
-dest_files=[ "res://.import/Lighting the Cannon (26x18).png-84181149143ea6758113d68762439636.stex" ]
+source_file="res://Sprites/07-Pig With a Match/Lighting the Cannon (26x18).png"
+dest_files=[ "res://.import/Lighting the Cannon (26x18).png-1f20aefa56e285a0425f670591a2b177.stex" ]
 
 [params]
 

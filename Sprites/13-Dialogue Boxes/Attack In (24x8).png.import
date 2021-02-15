@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Attack In (24x8).png-7c5fc0ff34c05288f4b699cd2763f8fc.stex"
+path="res://.import/Attack In (24x8).png-02c97058562bee35ed728e99ff78aa60.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/13-Dialogue Boxes/Attack In (24x8).png"
-dest_files=[ "res://.import/Attack In (24x8).png-7c5fc0ff34c05288f4b699cd2763f8fc.stex" ]
+source_file="res://Sprites/13-Dialogue Boxes/Attack In (24x8).png"
+dest_files=[ "res://.import/Attack In (24x8).png-02c97058562bee35ed728e99ff78aa60.stex" ]
 
 [params]
 

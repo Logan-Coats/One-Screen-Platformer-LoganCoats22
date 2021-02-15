@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Idle (26x30).png-ff044324b272a94195f3b18c24b0ba6b.stex"
+path="res://.import/Idle (26x30).png-dc1797f566c58bfbe8ad982e359cc328.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/04-Pig Throwing a Box/Idle (26x30).png"
-dest_files=[ "res://.import/Idle (26x30).png-ff044324b272a94195f3b18c24b0ba6b.stex" ]
+source_file="res://Sprites/04-Pig Throwing a Box/Idle (26x30).png"
+dest_files=[ "res://.import/Idle (26x30).png-dc1797f566c58bfbe8ad982e359cc328.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fall (26x20).png-19261ff80ae22285263159c9f0eed3cb.stex"
+path="res://.import/Fall (26x20).png-685bdf7b2b12730f645ef837bd42af0b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/06-Pig Hide in the Box/Fall (26x20).png"
-dest_files=[ "res://.import/Fall (26x20).png-19261ff80ae22285263159c9f0eed3cb.stex" ]
+source_file="res://Sprites/06-Pig Hide in the Box/Fall (26x20).png"
+dest_files=[ "res://.import/Fall (26x20).png-685bdf7b2b12730f645ef837bd42af0b.stex" ]
 
 [params]
 

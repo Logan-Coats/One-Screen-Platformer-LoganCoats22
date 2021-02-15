@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Boom Out (24x8).png-fa660b28200464df06d5466f6a2badda.stex"
+path="res://.import/Boom Out (24x8).png-aaea9d54d35a3f56b79e60a01558ba3f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/13-Dialogue Boxes/Boom Out (24x8).png"
-dest_files=[ "res://.import/Boom Out (24x8).png-fa660b28200464df06d5466f6a2badda.stex" ]
+source_file="res://Sprites/13-Dialogue Boxes/Boom Out (24x8).png"
+dest_files=[ "res://.import/Boom Out (24x8).png-aaea9d54d35a3f56b79e60a01558ba3f.stex" ]
 
 [params]
 

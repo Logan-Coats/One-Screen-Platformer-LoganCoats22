@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-50710007992ddd27d5169a0f15fc0179.stex"
+path="res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/icon.png"
-dest_files=[ "res://.import/icon.png-50710007992ddd27d5169a0f15fc0179.stex" ]
+source_file="res://icon.png"
+dest_files=[ "res://.import/icon.png-487276ed1e3a0c39cad0279d744ee560.stex" ]
 
 [params]
 

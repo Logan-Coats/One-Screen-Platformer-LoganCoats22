@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Cannon Ball.png-83cefdc49a5123b157b42fed4d19cc05.stex"
+path="res://.import/Cannon Ball.png-f46693faf8083d2c83e1cac90677eada.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/10-Cannon/Cannon Ball.png"
-dest_files=[ "res://.import/Cannon Ball.png-83cefdc49a5123b157b42fed4d19cc05.stex" ]
+source_file="res://Sprites/10-Cannon/Cannon Ball.png"
+dest_files=[ "res://.import/Cannon Ball.png-f46693faf8083d2c83e1cac90677eada.stex" ]
 
 [params]
 

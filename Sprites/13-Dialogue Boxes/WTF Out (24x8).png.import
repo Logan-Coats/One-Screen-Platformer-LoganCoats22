@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/WTF Out (24x8).png-1faf7841d4ab5f792ac14f557f4ce19a.stex"
+path="res://.import/WTF Out (24x8).png-294232d0347b55753a3f40489f01c2dd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://One-Screen-Platformer-LoganCoats22/Sprites/13-Dialogue Boxes/WTF Out (24x8).png"
-dest_files=[ "res://.import/WTF Out (24x8).png-1faf7841d4ab5f792ac14f557f4ce19a.stex" ]
+source_file="res://Sprites/13-Dialogue Boxes/WTF Out (24x8).png"
+dest_files=[ "res://.import/WTF Out (24x8).png-294232d0347b55753a3f40489f01c2dd.stex" ]
 
 [params]
 
