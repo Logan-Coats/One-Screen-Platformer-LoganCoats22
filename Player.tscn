@@ -5,8 +5,8 @@
 [ext_resource path="res://Sprites/01-King Human/Run (78x58).png" type="Texture" id=3]
 [ext_resource path="res://Player.gd" type="Script" id=4]
 
-[sub_resource type="CapsuleShape2D" id=1]
-height = 12.0801
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 9.49313, 12.1245 )
 
 [sub_resource type="AtlasTexture" id=2]
 atlas = ExtResource( 2 )
@@ -49,40 +49,40 @@ atlas = ExtResource( 2 )
 region = Rect2( 780, 0, 78, 58 )
 
 [sub_resource type="AtlasTexture" id=12]
-atlas = ExtResource( 3 )
+atlas = ExtResource( 1 )
 region = Rect2( 0, 0, 78, 58 )
 
 [sub_resource type="AtlasTexture" id=13]
 atlas = ExtResource( 3 )
-region = Rect2( 78, 0, 78, 58 )
+region = Rect2( 0, 0, 78, 58 )
 
 [sub_resource type="AtlasTexture" id=14]
 atlas = ExtResource( 3 )
-region = Rect2( 156, 0, 78, 58 )
+region = Rect2( 78, 0, 78, 58 )
 
 [sub_resource type="AtlasTexture" id=15]
 atlas = ExtResource( 3 )
-region = Rect2( 234, 0, 78, 58 )
+region = Rect2( 156, 0, 78, 58 )
 
 [sub_resource type="AtlasTexture" id=16]
 atlas = ExtResource( 3 )
-region = Rect2( 312, 0, 78, 58 )
+region = Rect2( 234, 0, 78, 58 )
 
 [sub_resource type="AtlasTexture" id=17]
 atlas = ExtResource( 3 )
-region = Rect2( 390, 0, 78, 58 )
+region = Rect2( 312, 0, 78, 58 )
 
 [sub_resource type="AtlasTexture" id=18]
 atlas = ExtResource( 3 )
-region = Rect2( 468, 0, 78, 58 )
+region = Rect2( 390, 0, 78, 58 )
 
 [sub_resource type="AtlasTexture" id=19]
 atlas = ExtResource( 3 )
-region = Rect2( 546, 0, 78, 58 )
+region = Rect2( 468, 0, 78, 58 )
 
 [sub_resource type="AtlasTexture" id=20]
-atlas = ExtResource( 1 )
-region = Rect2( 0, 0, 78, 58 )
+atlas = ExtResource( 3 )
+region = Rect2( 546, 0, 78, 58 )
 
 [sub_resource type="SpriteFrames" id=21]
 animations = [ {
@@ -91,15 +91,15 @@ animations = [ {
 "name": "idle",
 "speed": 11.0
 }, {
-"frames": [ SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ), SubResource( 18 ), SubResource( 19 ) ],
-"loop": true,
-"name": "run",
-"speed": 8.0
-}, {
-"frames": [ SubResource( 20 ) ],
+"frames": [ SubResource( 12 ) ],
 "loop": true,
 "name": "jump",
 "speed": 5.0
+}, {
+"frames": [ SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ), SubResource( 18 ), SubResource( 19 ), SubResource( 20 ) ],
+"loop": true,
+"name": "run",
+"speed": 8.0
 } ]
 
 [node name="Player" type="KinematicBody2D"]
